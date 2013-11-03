@@ -53,3 +53,4 @@ $RECYCLE.BIN/
 /cookbooks
 /tmp
 .vagrant
+Cheffile.lock
